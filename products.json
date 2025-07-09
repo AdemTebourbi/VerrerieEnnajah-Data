@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "0166d36c-2251-41a0-9f71-5363545514a2",
+    "name": "Verre 1",
+    "category": "Verre",
+    "youtubeLink": "https://youtube.com/verre_1",
+    "description": "Un trés joli verre.",
+    "defaultDimensions": [
+      {
+        "x": 120,
+        "y": 200,
+        "z": 0.4,
+        "price": 400
+      },
+      {
+        "x": 60,
+        "y": 200,
+        "z": 0.4,
+        "price": 300
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 0.2,
+        "price": 2
+      },
+      {
+        "z": 0.4,
+        "price": 5
+      },
+      {
+        "z": 0.6,
+        "price": 10
+      }
+    ],
+    "images": [
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/cef90d25-d7bb-431d-b1c0-bc8fd1d8f306.png",
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/77b9def8-8219-45e1-86d1-0dde3f7799c3.png",
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/3e0771e2-939b-47e4-b2d6-1d1e257c8c09.png"
+    ]
+  }
+]
