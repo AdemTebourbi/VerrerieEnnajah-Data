@@ -35,5 +35,37 @@
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/77b9def8-8219-45e1-86d1-0dde3f7799c3.png",
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/b5a34ae6-1fef-491a-a83f-08785e0310fe.jpg"
     ]
+  },
+  {
+    "id": "29c945fb-dd40-4cc8-8dcb-5da5344deb09",
+    "name": "Cadre 1",
+    "category": "Cadre",
+    "youtubeLink": "https://youtube.com/cadre1",
+    "description": "A Beautiful Cadre for a beautiful picture",
+    "defaultDimensions": [
+      {
+        "x": 120,
+        "y": 240,
+        "z": 0.3,
+        "price": 500
+      },
+      {
+        "x": 240,
+        "y": 300,
+        "z": 0.8,
+        "price": 200
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 0.8,
+        "price": 3
+      }
+    ],
+    "images": [
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/02a27f66-6247-4b46-96af-19aba6c6eafa.png",
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/6ab9b3f4-6b81-41a0-914e-6bd4358439ec.jpg"
+    ]
   }
 ]
