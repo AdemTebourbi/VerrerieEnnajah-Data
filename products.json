@@ -1,16 +1,1 @@
-[
-  {
-    "id": "3154b4ed-e81f-4621-b447-7b9ade0e30da",
-    "name": "Verre1",
-    "category": "Verre",
-    "youtubeLink": "https://youtube.com/verre1",
-    "description": "123abc",
-    "defaultDimensions": [],
-    "allowCustom": false,
-    "availableZ": [],
-    "images": [
-      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/129a4fe2-846f-4d6c-ba6f-765ef06041f0.png",
-      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/4237c7cf-1060-4e21-8f11-2d12c824a4a8.png"
-    ]
-  }
-]
+[]
