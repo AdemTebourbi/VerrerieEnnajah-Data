@@ -22,10 +22,6 @@
     "allowCustom": true,
     "availableZ": [
       {
-        "z": 0.2,
-        "price": 2
-      },
-      {
         "z": 0.4,
         "price": 5
       },
@@ -36,7 +32,8 @@
     ],
     "images": [
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/cef90d25-d7bb-431d-b1c0-bc8fd1d8f306.png",
-      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/77b9def8-8219-45e1-86d1-0dde3f7799c3.png"
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/77b9def8-8219-45e1-86d1-0dde3f7799c3.png",
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/b5a34ae6-1fef-491a-a83f-08785e0310fe.jpg"
     ]
   }
 ]
