@@ -67,5 +67,30 @@
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/4f031128-1b19-40ed-a777-345fc4e94703.png",
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/0286b785-cb0c-436e-9186-486cc32ec5f2.png"
     ]
+  },
+  {
+    "id": "027b646a-ec06-4aeb-b5fa-dc7b09ea0bb7",
+    "name": "Cadre pour Photo en bois",
+    "category": "Cadres",
+    "youtubeLink": "https://youtube.com/@rayenboumaila/videos/Cadre_pour_Photo_en_bois",
+    "description": "Une joli cadre élégant",
+    "defaultDimensions": [
+      {
+        "x": 50,
+        "y": 20,
+        "price": 80
+      },
+      {
+        "x": 50,
+        "y": 40,
+        "price": 100
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/fcad7868-af55-4534-8aa1-ceae10980ced.png",
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/d8cd4f85-435e-48e7-a4f5-0360fa43212f.png"
+    ]
   }
 ]
