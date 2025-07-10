@@ -3,34 +3,34 @@
     "id": "7bd304eb-f07b-40ed-a2f0-e5d26411e9a7",
     "name": "Verre 2",
     "category": "Verre",
-    "youtubeLink": "https://youtube.com/verre_2",
+    "youtubeLink": "",
     "description": "123abxc",
     "defaultDimensions": [
       {
         "x": 120,
         "y": 60,
-        "z": 0.4,
+        "z": 4,
         "price": 400
       },
       {
         "x": 120,
         "y": 120,
-        "z": 0.5,
+        "z": 5,
         "price": 500
       }
     ],
     "allowCustom": true,
     "availableZ": [
       {
-        "z": 0.3,
+        "z": 3,
         "price": 5
       },
       {
-        "z": 0.4,
+        "z": 4,
         "price": 6
       },
       {
-        "z": 0.5,
+        "z": 5,
         "price": 7
       }
     ],
