@@ -40,5 +40,32 @@
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/7eba5f78-222d-46da-9402-49b499f34496.png",
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/54690969-a69f-4c2a-9818-1a5af8d35080.png"
     ]
+  },
+  {
+    "id": "f72ab718-ca78-48aa-bfd7-b1e3d5e4ac83",
+    "name": "Miroir",
+    "category": "Miroirs",
+    "youtubeLink": "https://youtube.com/mr1",
+    "description": "abcez",
+    "defaultDimensions": [
+      {
+        "x": 120,
+        "y": 60,
+        "z": 4,
+        "price": 400
+      },
+      {
+        "x": 120,
+        "y": 120,
+        "z": 8,
+        "price": 650
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/4f031128-1b19-40ed-a777-345fc4e94703.png",
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/0286b785-cb0c-436e-9186-486cc32ec5f2.png"
+    ]
   }
 ]
