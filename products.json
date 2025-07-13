@@ -139,7 +139,14 @@
     "category": "Verre",
     "youtubeLink": "",
     "description": "...",
-    "defaultDimensions": [],
+    "defaultDimensions": [
+      {
+        "x": 120,
+        "y": 100,
+        "z": 3,
+        "price": 200
+      }
+    ],
     "allowCustom": true,
     "availableZ": [
       {
