@@ -150,19 +150,15 @@
     "allowCustom": true,
     "availableZ": [
       {
-        "z": 6,
+        "z": 3,
         "price": 50
       },
       {
-        "z": 3,
-        "price": 35
-      },
-      {
         "z": 4,
-        "price": 45
+        "price": 65
       },
       {
-        "z": 8,
+        "z": 5,
         "price": 75
       }
     ],
