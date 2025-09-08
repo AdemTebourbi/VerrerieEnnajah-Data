@@ -165,38 +165,5 @@
     "images": [
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/e050b30f-0989-4a38-8838-197fa06fd98e.png"
     ]
-  },
-  {
-    "id": "f9cd493a-b5be-4ab5-8ca7-f70b32a67e7a",
-    "name": "Miyaw",
-    "category": "Verre",
-    "youtubeLink": "https://youtu.be/csL0vOd7tWo",
-    "description": "...",
-    "defaultDimensions": [
-      {
-        "x": 120,
-        "y": 50,
-        "z": 3,
-        "price": 70
-      }
-    ],
-    "allowCustom": true,
-    "availableZ": [
-      {
-        "z": 5,
-        "price": 5
-      },
-      {
-        "z": 3,
-        "price": 3
-      },
-      {
-        "z": 8,
-        "price": 8
-      }
-    ],
-    "images": [
-      "https://ademtebourbi/VerrerieEnnajah-Data/images/0899444d-508f-4cd5-aa38-3797a01e2790.png"
-    ]
   }
 ]
