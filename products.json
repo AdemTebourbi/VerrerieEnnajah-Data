@@ -92,45 +92,5 @@
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/fcad7868-af55-4534-8aa1-ceae10980ced.png",
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/d8cd4f85-435e-48e7-a4f5-0360fa43212f.png"
     ]
-  },
-  {
-    "id": "fda034be-60bf-45f8-87ff-b6326d18296b",
-    "name": "Cadre 2",
-    "category": "Cadres",
-    "youtubeLink": "https://youtu.be/3O2ReikS7vQ",
-    "description": "🖼️ Cadre Photo en Verre Élégant\nAjoutez une touche de raffinement à votre décoration avec ce cadre photo en verre transparent au design épuré. Idéal pour sublimer vos souvenirs tout en s’intégrant harmonieusement dans tous les styles d’intérieur, ce cadre met en valeur vos photos avec une finition claire et lumineuse.\n\n✔️ Fabriqué en verre trempé pour une solidité accrue\n✔️ Look moderne et minimaliste\n✔️ Support inclus pour une pose sur table ou fixation murale\n✔️ Convient pour photos couleur ou noir et blanc",
-    "defaultDimensions": [
-      {
-        "x": 10,
-        "y": 15,
-        "price": 14.9
-      },
-      {
-        "x": 13,
-        "y": 18,
-        "price": 17.9
-      },
-      {
-        "x": 15,
-        "y": 21,
-        "price": 19.9
-      },
-      {
-        "x": 20,
-        "y": 30,
-        "price": 24.9
-      },
-      {
-        "x": 30,
-        "y": 40,
-        "price": 34.9
-      }
-    ],
-    "allowCustom": false,
-    "availableZ": [],
-    "images": [
-      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/6665a9d4-0f4b-40df-834e-738d8bea0dee.png",
-      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/a67e15d3-c921-4f1d-ab11-ff52d0bb8b88.png"
-    ]
   }
 ]
