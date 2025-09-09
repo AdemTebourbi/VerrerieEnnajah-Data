@@ -97,30 +97,5 @@
     "id": 1,
     "name": "Verre Escalier",
     "description": "123"
-  },
-  {
-    "id": 2,
-    "name": "Cadre Magnifique",
-    "category": "Cadres",
-    "subcategory": "",
-    "youtube": "",
-    "description": "123",
-    "dimensions": [
-      {
-        "x": "120",
-        "y": "200",
-        "z": "0,3",
-        "price": 200
-      }
-    ],
-    "thicknesses": [],
-    "availableTypes": [],
-    "availableTypesVerre1": [],
-    "availableTypesVerre2": [],
-    "images": [
-      {
-        "imageUrl": "https://verrerieennajah.tn/cdn.prod.website-files.com/686a5e194dc025de174612e0/686e7ca9f7abdc8fecfd7a5b_cdr2.png"
-      }
-    ]
   }
 ]
