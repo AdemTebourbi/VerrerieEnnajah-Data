@@ -92,5 +92,28 @@
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/fcad7868-af55-4534-8aa1-ceae10980ced.png",
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/d8cd4f85-435e-48e7-a4f5-0360fa43212f.png"
     ]
+  },
+  {
+    "id": 1,
+    "name": "Cadre Magnifique",
+    "category": "Cadres",
+    "subcategory": "",
+    "youtube": "",
+    "description": "ABC",
+    "dimensions": [
+      {
+        "x": "120",
+        "y": "500",
+        "z": "2",
+        "price": 200
+      }
+    ],
+    "thicknesses": [],
+    "availableTypes": [],
+    "availableTypesVerre1": [],
+    "availableTypesVerre2": [],
+    "images": [
+      ""
+    ]
   }
 ]
