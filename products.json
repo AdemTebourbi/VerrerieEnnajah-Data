@@ -828,5 +828,86 @@
         "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/a2673d5b-79f4-4884-9c11-0ca1b0915692.png"
       }
     ]
+  },
+  {
+    "id": 28,
+    "name": "Verre 1",
+    "category": "Verre",
+    "subcategory": "Vitrage double",
+    "youtube": "",
+    "description": "123",
+    "dimensions": [],
+    "thicknesses": [
+      {
+        "z": 4,
+        "price": 5
+      },
+      {
+        "z": 6,
+        "price": 7
+      }
+    ],
+    "availableTypes": [],
+    "availableTypesVerre1": [
+      {
+        "name": "stp bleu",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 5
+          },
+          {
+            "z": 6,
+            "price": 7
+          }
+        ]
+      },
+      {
+        "name": "stp claire",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 5
+          },
+          {
+            "z": 6,
+            "price": 7
+          }
+        ]
+      }
+    ],
+    "availableTypesVerre2": [
+      {
+        "name": "stp asli",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 5
+          },
+          {
+            "z": 6,
+            "price": 7
+          }
+        ]
+      },
+      {
+        "name": "stp bleu",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 5
+          },
+          {
+            "z": 6,
+            "price": 7
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "imageUrl": "https://verrerieennajah.tn/cdn.prod.website-files.com/686a5e194dc025de174612e0/686d18c3b2a9c41173496389_6.png"
+      }
+    ]
   }
 ]
