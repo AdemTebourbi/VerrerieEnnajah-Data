@@ -828,5 +828,110 @@
         "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/a2673d5b-79f4-4884-9c11-0ca1b0915692.png"
       }
     ]
+  },
+  {
+    "id": 28,
+    "name": "Double Vitrage Test",
+    "category": "Verre",
+    "subcategory": "Vitrage double",
+    "youtube": "",
+    "description": "",
+    "dimensions": [],
+    "thicknesses": [
+      {
+        "z": 3,
+        "price": 3.5
+      },
+      {
+        "z": 4,
+        "price": 5
+      },
+      {
+        "z": 5,
+        "price": 7
+      }
+    ],
+    "availableTypes": [],
+    "availableTypesVerre1": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 3
+          },
+          {
+            "z": 3,
+            "price": 4
+          },
+          {
+            "z": 4,
+            "price": 8
+          },
+          {
+            "z": 5,
+            "price": 10
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "thicknesses": [
+          {
+            "z": 3,
+            "price": 5
+          },
+          {
+            "z": 4,
+            "price": 7
+          },
+          {
+            "z": 5,
+            "price": 9
+          }
+        ]
+      }
+    ],
+    "availableTypesVerre2": [
+      {
+        "id": "4",
+        "thicknesses": [
+          {
+            "z": 3,
+            "price": 3.5
+          },
+          {
+            "z": 4,
+            "price": 5
+          },
+          {
+            "z": 5,
+            "price": 7
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 3
+          },
+          {
+            "z": 3,
+            "price": 4
+          },
+          {
+            "z": 4,
+            "price": 8
+          },
+          {
+            "z": 5,
+            "price": 10
+          }
+        ]
+      }
+    ],
+    "images": []
   }
 ]
