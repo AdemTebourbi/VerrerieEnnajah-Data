@@ -831,26 +831,13 @@
   },
   {
     "id": 28,
-    "name": "Double Vitrage Test",
+    "name": "Verre Feuilleté Test",
     "category": "Verre",
-    "subcategory": "Vitrage double",
+    "subcategory": "Verre feuilleté",
     "youtube": "",
-    "description": "",
+    "description": "Verre Feuilleté Test",
     "dimensions": [],
-    "thicknesses": [
-      {
-        "z": 3,
-        "price": 3.5
-      },
-      {
-        "z": 4,
-        "price": 5
-      },
-      {
-        "z": 5,
-        "price": 7
-      }
-    ],
+    "thicknesses": [],
     "availableTypes": [],
     "availableTypesVerre1": [
       {
@@ -858,19 +845,63 @@
         "thicknesses": [
           {
             "z": 2,
-            "price": 3
+            "price": 3.5
           },
           {
             "z": 3,
-            "price": 4
+            "price": 6
           },
           {
             "z": 4,
-            "price": 8
+            "price": 10
           },
           {
             "z": 5,
+            "price": 17
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 5
+          },
+          {
+            "z": 3,
+            "price": 9
+          },
+          {
+            "z": 4,
+            "price": 16
+          },
+          {
+            "z": 5,
+            "price": 29
+          }
+        ]
+      }
+    ],
+    "availableTypesVerre2": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 3.5
+          },
+          {
+            "z": 3,
+            "price": 6
+          },
+          {
+            "z": 4,
             "price": 10
+          },
+          {
+            "z": 5,
+            "price": 17
           }
         ]
       },
@@ -878,56 +909,20 @@
         "id": "3",
         "thicknesses": [
           {
-            "z": 3,
-            "price": 5
-          },
-          {
-            "z": 4,
-            "price": 7
-          },
-          {
-            "z": 5,
-            "price": 9
-          }
-        ]
-      }
-    ],
-    "availableTypesVerre2": [
-      {
-        "id": "4",
-        "thicknesses": [
-          {
-            "z": 3,
-            "price": 3.5
-          },
-          {
-            "z": 4,
-            "price": 5
-          },
-          {
-            "z": 5,
-            "price": 7
-          }
-        ]
-      },
-      {
-        "id": "1",
-        "thicknesses": [
-          {
             "z": 2,
-            "price": 3
-          },
-          {
-            "z": 3,
             "price": 4
           },
           {
+            "z": 3,
+            "price": 7
+          },
+          {
             "z": 4,
-            "price": 8
+            "price": 12
           },
           {
             "z": 5,
-            "price": 10
+            "price": 21
           }
         ]
       }
@@ -936,6 +931,7 @@
       {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-tCx8zk-DlML4e7D0TKN-TJYzcl9MSJWv8N2taduP9ISz1OiDf1RRc_dS8YvNlSnMkE&usqp=CAU"
       }
-    ]
+    ],
+    "filmPrice": 24
   }
 ]
