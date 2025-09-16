@@ -933,5 +933,25 @@
       }
     ],
     "filmPrice": 24
+  },
+  {
+    "id": 29,
+    "name": "Miroir Rétroviseurs ",
+    "category": "Miroirs",
+    "subcategory": "Miroirs rétroviseurs",
+    "youtube": "",
+    "description": "Miroir pour rétroviseurs ",
+    "images": [
+      {
+        "imageUrl": "https://www.points-glass.fr/docs/pages/1/PointSglass-Prestation-retrovieseurs-min.jpg"
+      }
+    ],
+    "dimensions": [],
+    "allowCustom": true,
+    "customPrices": {
+      "moto": 150,
+      "voiture": 180,
+      "camion": 220
+    }
   }
 ]
