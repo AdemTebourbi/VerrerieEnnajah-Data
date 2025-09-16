@@ -1009,15 +1009,6 @@
       }
     ],
     "allowCustom": true,
-    "customThicknesses": [
-      {
-        "z": "",
-        "price": ""
-      },
-      {
-        "z": "",
-        "price": ""
-      }
-    ]
+    "customThicknesses": []
   }
 ]
