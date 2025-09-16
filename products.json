@@ -1121,24 +1121,5 @@
         "price": 14
       }
     ]
-  },
-  {
-    "id": 33,
-    "name": "Cadre 13",
-    "category": "Cadres",
-    "subcategory": "",
-    "youtube": "",
-    "description": "",
-    "images": [
-      {
-        "imageUrl": "https://lacentraleduverre.com/modules/lacentraleduverre/views/img/configurateurs/common_folder/configuration/coloris_intercalaire/intercalaire-argent.jpg"
-      }
-    ],
-    "dimensions": [],
-    "allowCustom": true,
-    "baguetteWidth": 13,
-    "baguetteLinearPrice": 50,
-    "plywoodPricePerM2": 150,
-    "glassPricePerM2": 50
   }
 ]
