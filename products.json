@@ -1010,5 +1010,116 @@
     ],
     "allowCustom": true,
     "customThicknesses": []
+  },
+  {
+    "id": 32,
+    "name": "Verre x2",
+    "category": "Verre",
+    "subcategory": "Vitrage double",
+    "youtube": "",
+    "description": "Vitrage Double pour une securité incomparable.",
+    "images": [
+      {
+        "imageUrl": "https://lacentraleduverre.com/modules/lacentraleduverre/views/img/configurateurs/common_folder/configuration/coloris_intercalaire/intercalaire-argent.jpg"
+      }
+    ],
+    "availableTypesVerre1": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 3
+          },
+          {
+            "z": 3,
+            "price": 5
+          },
+          {
+            "z": 4,
+            "price": 8
+          },
+          {
+            "z": 5,
+            "price": 13
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 2.5
+          },
+          {
+            "z": 3,
+            "price": 4
+          },
+          {
+            "z": 4,
+            "price": 6
+          },
+          {
+            "z": 5,
+            "price": 9
+          }
+        ]
+      }
+    ],
+    "availableTypesVerre2": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 3
+          },
+          {
+            "z": 3,
+            "price": 5
+          },
+          {
+            "z": 4,
+            "price": 8
+          },
+          {
+            "z": 5,
+            "price": 13
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 3
+          },
+          {
+            "z": 3,
+            "price": 5
+          },
+          {
+            "z": 4,
+            "price": 8
+          },
+          {
+            "z": 5,
+            "price": 13
+          }
+        ]
+      }
+    ],
+    "swiggleThicknesses": [
+      {
+        "thickness": 3,
+        "price": 6
+      },
+      {
+        "thickness": 5,
+        "price": 14
+      }
+    ]
   }
 ]
