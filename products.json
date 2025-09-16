@@ -1010,58 +1010,5 @@
     ],
     "allowCustom": true,
     "customThicknesses": []
-  },
-  {
-    "id": 32,
-    "name": "Double",
-    "category": "Verre",
-    "subcategory": "Vitrage double",
-    "youtube": "",
-    "description": "",
-    "images": [],
-    "availableTypesVerre1": [
-      {
-        "id": "1",
-        "thicknesses": [
-          {
-            "z": "",
-            "price": ""
-          },
-          {
-            "z": "",
-            "price": ""
-          }
-        ]
-      },
-      {
-        "id": "2",
-        "thicknesses": [
-          {
-            "z": "",
-            "price": ""
-          },
-          {
-            "z": "",
-            "price": ""
-          }
-        ]
-      }
-    ],
-    "availableTypesVerre2": [
-      {
-        "id": "3",
-        "thicknesses": [
-          {
-            "z": "",
-            "price": ""
-          },
-          {
-            "z": "",
-            "price": ""
-          }
-        ]
-      }
-    ],
-    "totalPrice": null
   }
 ]
