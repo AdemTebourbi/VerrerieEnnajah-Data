@@ -259,11 +259,13 @@
     "swiggleThicknesses": [
       {
         "thickness": 3,
-        "price": 6
+        "price": 6,
+        "z": 3
       },
       {
         "thickness": 5,
-        "price": 14
+        "price": 14,
+        "z": 5
       }
     ]
   }
