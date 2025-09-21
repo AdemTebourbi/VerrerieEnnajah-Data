@@ -105,42 +105,6 @@
     ]
   },
   {
-    "id": 16,
-    "name": "Traçage Noir – Design Moderne sur Verre",
-    "category": "Verre",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\">\n  <h2 style=\"font-size:16px; margin-bottom:8px;\">🖤 <strong>Verre Décoratif – Traçage Noir Élégant</strong> ✨</h2>\n\n  <p>✨ <strong>Un style moderne et raffiné</strong> grâce à son motif en <strong>traçage noir élégant</strong>.  \n    Ce <strong>verre décoratif</strong> apporte une <strong>touche unique</strong> à vos <strong>portes, fenêtres ou cloisons</strong>, tout en restant <strong>sobre et chic</strong>.  \n    Idéal pour donner <strong>du caractère</strong> à vos espaces intérieurs.</p>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">🎯 <strong>Ses atouts</strong></h3>\n  <ul style=\"padding-left:18px; margin-top:5px;\">\n    <li>Motif <strong>traçage noir</strong> élégant et moderne</li>\n    <li>Apporte <strong>sobriété</strong> et <strong>raffinement</strong></li>\n    <li>Parfait pour <strong>portes, fenêtres</strong> et <strong>cloisons</strong></li>\n  </ul>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚 <strong>Livraison garantie</strong> sous <strong>10 jours maximum</strong>, avec emballage soigné pour une arrivée en parfait état 🏡.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 100,
-        "y": 100,
-        "z": 4,
-        "price": 229
-      },
-      {
-        "x": 100,
-        "y": 100,
-        "z": 6,
-        "price": 249
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 4,
-        "price": 220
-      },
-      {
-        "z": 6,
-        "price": 230
-      }
-    ],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/8085e941-e1d8-4dea-80bc-3e0447ed1d4c.png"
-      }
-    ]
-  },
-  {
     "id": 17,
     "name": "Design Végétal Raffiné",
     "category": "Verre",
