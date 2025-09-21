@@ -33,27 +33,6 @@
     ]
   },
   {
-    "id": 4,
-    "name": "Miroir LED Tactile – Éclairez Votre Beauté",
-    "category": "Miroirs",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size: 14px; line-height: 1.4; font-family: Arial, sans-serif;\">\n  <h2 style=\"font-size: 16px; margin-bottom: 8px;\">✨ <strong>Miroir LED Tactile – Élégance & Lumière</strong> 🪞💡</h2>\n\n  <p>✨ <strong>Offrez-vous bien plus qu’un simple miroir</strong> !  \n    Ce <strong>miroir décoratif LED tactile</strong> transforme votre espace en un lieu élégant et lumineux.  \n    👆 <strong>Un simple toucher</strong> suffit pour allumer ou éteindre la lumière, créant une ambiance douce et raffinée 🌙✨.</p>\n\n  <p>🏡 Parfait pour <strong>la salle de bain</strong> 🚿 ou <strong>la chambre</strong> 🛏️,  \n    il combine <strong>design moderne</strong>, <strong>praticité</strong> et <strong>confort visuel</strong> pour sublimer chaque instant passé devant lui 💖.</p>\n\n  <h3 style=\"font-size: 15px; margin-top: 10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚💨 <strong>Commandez aujourd’hui</strong> et recevez votre miroir chez vous en <strong>7 jours maximum</strong> !  \n    Notre service de <strong>livraison express</strong> vous garantit un envoi rapide, sûr et prêt à embellir votre intérieur ⏳🏠.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 74,
-        "y": 55,
-        "z": 4,
-        "price": 149
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/5ea452af-c8a0-4beb-acb7-080042a2eda1.png"
-      }
-    ]
-  },
-  {
     "id": 5,
     "name": "Miroir Maquillage Grossissant – Chaque détail sous vos yeux",
     "category": "Miroirs",
