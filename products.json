@@ -1,38 +1,5 @@
 [
   {
-    "id": 2,
-    "name": "Miroir en Bois aux Motifs Raffinés et Simples",
-    "category": "Miroirs",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size: 14px; line-height: 1.4; font-family: Arial, sans-serif;\">\n  <h2 style=\"font-size: 16px; margin-bottom: 8px;\">🪞 <strong>Miroir avec Cadre en Bois – Charme Naturel & Intemporel</strong></h2>\n\n  <p>✨ <strong>Offrez à votre séjour un charme naturel et intemporel</strong> avec ce miroir au \n    <strong>cadre en bois finement travaillé</strong>.  \n    Ses <strong>motifs délicats</strong>, à la fois jolis et simples, apportent une touche d’authenticité qui se marie à tous les styles de décoration.</p>\n\n  <p>💡 Plus qu’un simple objet, c’est une <strong>pièce maîtresse</strong> qui \n    <strong>agrandit l’espace</strong>, <strong>illumine la pièce</strong> et raconte une histoire de raffinement.  \n    Un choix idéal pour ceux qui aiment allier <strong>élégance</strong> et <strong>simplicité</strong>.</p>\n\n  <h3 style=\"font-size: 15px; margin-top: 10px;\">🎨 <strong>Couleurs disponibles</strong></h3>\n  <ul style=\"padding-left: 18px; margin-top: 5px;\">\n    <li><strong>Doré</strong></li>\n    <li><strong>Noir</strong></li>\n  </ul>\n\n  <h3 style=\"font-size: 15px; margin-top: 10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚 Votre miroir sera <strong>soigneusement préparé</strong> et expédié avec le plus grand soin.  \n    ⏱️ <strong>Livraison garantie sous 7 jours maximum</strong>, directement à votre adresse.  \n    📦 Emballage sécurisé pour assurer qu’il arrive <strong>en parfait état</strong>.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 90,
-        "y": 180,
-        "z": 4,
-        "price": 595
-      },
-      {
-        "x": 105,
-        "y": 190,
-        "z": 4,
-        "price": 695
-      },
-      {
-        "x": 210,
-        "y": 115,
-        "z": 4,
-        "price": 745
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/74359f50-71d2-482a-af29-88a4895ecb41.png"
-      }
-    ]
-  },
-  {
     "id": 3,
     "name": "Miroir Bois Naturel au Charme Simple",
     "category": "Miroirs",
