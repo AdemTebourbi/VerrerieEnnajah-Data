@@ -33,42 +33,6 @@
     ]
   },
   {
-    "id": 11,
-    "name": "Art Noir sur Verre – Finesse et Modernité",
-    "category": "Verre",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\">\n  <h2 style=\"font-size:16px; margin-bottom:8px;\">🖤 <strong>Traçage Noir Fin sur Verre – Caractère & Originalité</strong> ✨</h2>\n\n  <p>✨ <strong>Un tracé noir fin et élégant sur verre</strong>, qui apporte <strong>caractère</strong> et <strong>originalité</strong> à votre décoration.  \n    Parfait pour sublimer vos murs, cadres ou espaces décoratifs avec une touche moderne et sophistiquée 🎨.</p>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">🎯 <strong>Ses atouts</strong></h3>\n  <ul style=\"padding-left:18px; margin-top:5px;\">\n    <li>Tracé <strong>fin</strong> et raffiné</li>\n    <li>Apporte <strong>caractère</strong> et originalité</li>\n    <li>Idéal pour <strong>murs, cadres</strong> et espaces décoratifs</li>\n  </ul>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚 <strong>Recevez-le chez vous</strong> en <strong>10 jours maximum</strong>, avec un emballage soigné pour garantir une arrivée en parfait état 🏡.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 100,
-        "y": 100,
-        "z": 4,
-        "price": 229
-      },
-      {
-        "x": 100,
-        "y": 100,
-        "z": 6,
-        "price": 249
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 4,
-        "price": 210
-      },
-      {
-        "z": 6,
-        "price": 230
-      }
-    ],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/b6dfd998-875c-4a3e-96a5-50e9719b6bc6.png"
-      }
-    ]
-  },
-  {
     "id": 12,
     "name": "Fleur d’Art sur Verre – Une touche unique pour votre déco",
     "category": "Verre",
