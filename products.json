@@ -1,38 +1,5 @@
 [
   {
-    "id": 3,
-    "name": "Miroir Bois Naturel au Charme Simple",
-    "category": "Miroirs",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size: 14px; line-height: 1.4; font-family: Arial, sans-serif;\">\n  <h2 style=\"font-size: 16px; margin-bottom: 8px;\">🪞 <strong>Miroir en Bois – Chaleur & Authenticité</strong></h2>\n\n  <p>✨ <strong>Apportez chaleur et authenticité</strong> à votre intérieur avec ce magnifique \n    <strong>miroir en bois</strong>.  \n    Son <strong>cadre finement travaillé</strong>, orné d’un <strong>motif simple et discret</strong>, sublime votre espace tout en offrant un reflet clair et éclatant.</p>\n\n  <p>🏡 Parfait pour <strong>un salon</strong>, <strong>une entrée</strong> ou <strong>une chambre</strong>, \n    il allie la <strong>beauté naturelle du bois</strong> à un <strong>design intemporel</strong> qui s’adapte à tous les styles de décoration.</p>\n\n  <h3 style=\"font-size: 15px; margin-top: 10px;\">📦 <strong>Livraison rapide & soignée</strong></h3>\n  <p>🚚 <strong>Commandez aujourd’hui</strong> et profitez-en dès la semaine prochaine !  \n    Notre miroir en bois au motif simple n’attend que sa place chez vous.  \n    ⏱️ <strong>Livraison garantie en 7 jours maximum</strong>, directement à votre porte, avec un emballage sécurisé pour qu’il arrive <strong>en parfait état</strong>.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 90,
-        "y": 180,
-        "z": 4,
-        "price": 595
-      },
-      {
-        "x": 105,
-        "y": 190,
-        "z": 4,
-        "price": 695
-      },
-      {
-        "x": 210,
-        "y": 115,
-        "z": 4,
-        "price": 795
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/3321cddc-50fb-4bbf-aea5-22d4a27ec0d4.png"
-      }
-    ]
-  },
-  {
     "id": 13,
     "name": "Verre Artistique Sablé pour une Touche Moderne",
     "category": "Verre",
