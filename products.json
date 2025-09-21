@@ -317,5 +317,26 @@
       "voiture": 100,
       "camion": 150
     }
+  },
+  {
+    "id": 9,
+    "name": "Miroirs: Rétroviseurs 2",
+    "category": "Miroirs",
+    "subcategory": "Miroirs rétroviseurs",
+    "youtube": "",
+    "description": "<p>Rétroviseur non personnalisable.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Rétroviseur+Fixe"
+      }
+    ],
+    "dimensions": [
+      {
+        "x": 15,
+        "y": 10,
+        "price": 75
+      }
+    ],
+    "allowCustom": false
   }
 ]
