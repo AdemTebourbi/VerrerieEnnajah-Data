@@ -141,13 +141,17 @@
         "width": 80,
         "height": 80,
         "priceVerre": 100,
-        "priceNoVerre": 80
+        "priceNoVerre": 80,
+        "x": 12,
+        "y": 20
       },
       {
         "width": 100,
         "height": 100,
         "priceVerre": 120,
-        "priceNoVerre": 100
+        "priceNoVerre": 100,
+        "x": 15,
+        "y": 30
       }
     ],
     "allowCustom": false
