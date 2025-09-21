@@ -120,5 +120,88 @@
         "price": 700
       }
     ]
+  },
+  {
+    "id": 5,
+    "name": "Vitrage Double Isolant",
+    "category": "Verre",
+    "subcategory": "Vitrage double",
+    "youtube": "",
+    "description": "<p>Vitrage double pour isolation.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Double"
+      }
+    ],
+    "availableTypesVerre1": [
+      {
+        "id": "5",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 80
+          },
+          {
+            "z": 6,
+            "price": 100
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 3,
+            "price": 65
+          },
+          {
+            "z": 4,
+            "price": 75
+          },
+          {
+            "z": 5,
+            "price": 85
+          }
+        ]
+      }
+    ],
+    "availableTypesVerre2": [
+      {
+        "id": "5",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 80
+          },
+          {
+            "z": 6,
+            "price": 100
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 90
+          },
+          {
+            "z": 6,
+            "price": 120
+          }
+        ]
+      }
+    ],
+    "swiggleThicknesses": [
+      {
+        "z": 6,
+        "price": 20
+      },
+      {
+        "z": 8,
+        "price": 25
+      }
+    ]
   }
 ]
