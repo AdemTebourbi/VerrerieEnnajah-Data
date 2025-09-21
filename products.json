@@ -383,5 +383,27 @@
     "baguetteLinearPrice": 12,
     "plywoodPricePerM2": 6,
     "glassPricePerM2": 70
+  },
+  {
+    "id": 12,
+    "name": "Cadre Standard",
+    "category": "Cadres",
+    "subcategory": "",
+    "youtube": "",
+    "description": "<p>Cadre standard non personnalisable.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Cadre+Standard"
+      }
+    ],
+    "dimensions": [
+      {
+        "x": 20,
+        "y": 30,
+        "priceVerre": 50,
+        "priceNoVerre": 40
+      }
+    ],
+    "allowCustom": false
   }
 ]
