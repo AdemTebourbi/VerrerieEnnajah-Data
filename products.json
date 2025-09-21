@@ -364,5 +364,24 @@
     "baguetteLinearPrice": 10,
     "plywoodPricePerM2": 50,
     "glassPricePerM2": 70
+  },
+  {
+    "id": 11,
+    "name": "Cadre Aluminium Personnalisé",
+    "category": "Cadres",
+    "subcategory": "",
+    "youtube": "",
+    "description": "<p>Cadre aluminium sans dimensions prédéfinies.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Cadre+Empty"
+      }
+    ],
+    "dimensions": [],
+    "allowCustom": true,
+    "baguetteWidth": 3,
+    "baguetteLinearPrice": 12,
+    "plywoodPricePerM2": 6,
+    "glassPricePerM2": 70
   }
 ]
