@@ -21,5 +21,28 @@
         "price": 80
       }
     ]
+  },
+  {
+    "id": 2,
+    "name": "Verre Trempé 4mm",
+    "category": "Verre",
+    "subcategory": "Verre trempé",
+    "youtube": "",
+    "description": "<p>Verre trempé résistant.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Verre+Trempé"
+      }
+    ],
+    "thicknesses": [
+      {
+        "z": 4,
+        "price": 80
+      },
+      {
+        "z": 6,
+        "price": 100
+      }
+    ]
   }
 ]
