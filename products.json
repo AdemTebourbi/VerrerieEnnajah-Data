@@ -983,35 +983,6 @@
     "allowCustom": false
   },
   {
-    "id": 31,
-    "name": "Cadre 12",
-    "category": "Cadres",
-    "subcategory": "",
-    "youtube": "",
-    "description": "Un cadre de ton choix.",
-    "images": [
-      {
-        "imageUrl": "https://lalalab-bo-catalog.s3.eu-west-1.amazonaws.com/Cadre_Photo_30x30cm_Premium_Slide_01_59868ba493.webp"
-      }
-    ],
-    "dimensions": [
-      {
-        "width": 80,
-        "height": 80,
-        "priceVerre": 100,
-        "priceNoVerre": 80
-      },
-      {
-        "width": 100,
-        "height": 100,
-        "priceVerre": 120,
-        "priceNoVerre": 100
-      }
-    ],
-    "allowCustom": true,
-    "customThicknesses": []
-  },
-  {
     "id": 32,
     "name": "Verre x22",
     "category": "Verre",
