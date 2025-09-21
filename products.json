@@ -955,15 +955,15 @@
     }
   },
   {
-    "id": 30,
-    "name": "Cadre²",
+    "id": 31,
+    "name": "Cadre 12",
     "category": "Cadres",
     "subcategory": "",
     "youtube": "",
-    "description": "Cadre au carré pour une photo au carré et une impréssion aussi au carré",
+    "description": "Un cadre de ton choix.",
     "images": [
       {
-        "imageUrl": "https://lalalab-bo-catalog.s3.eu-west-1.amazonaws.com/Cadre_Photo_30x30cm_Personnalise_Slide_02_53ada75a69.webp"
+        "imageUrl": "https://lalalab-bo-catalog.s3.eu-west-1.amazonaws.com/Cadre_Photo_30x30cm_Premium_Slide_01_59868ba493.webp"
       }
     ],
     "dimensions": [
@@ -980,7 +980,8 @@
         "priceNoVerre": 100
       }
     ],
-    "allowCustom": false
+    "allowCustom": true,
+    "customThicknesses": []
   },
   {
     "id": 32,
