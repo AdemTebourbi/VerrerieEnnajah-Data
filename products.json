@@ -641,42 +641,6 @@
     ]
   },
   {
-    "id": 20,
-    "name": "Art Noir sur Verre : Motif Unique",
-    "category": "Verre",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\">\n  <h2 style=\"font-size:16px; margin-bottom:8px;\">🖤 <strong>Verre Décoratif – Tracés Noirs Élégants & Modernes</strong> ✨</h2>\n\n  <p>✨ <strong>Sublimez votre intérieur</strong> avec ce <strong>verre au motif de tracés noirs élégants et modernes</strong>.  \n    Parfait pour <strong>offrir</strong> ou <strong>décorer votre maison</strong> avec style et raffinement 🎨.</p>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">🎯 <strong>Ses atouts</strong></h3>\n  <ul style=\"padding-left:18px; margin-top:5px;\">\n    <li>Motif <strong>tracés noirs</strong> élégant et contemporain</li>\n    <li>Apporte <strong>style</strong> et <strong>raffinement</strong> à vos espaces</li>\n    <li>Idéal pour <strong>offrir</strong> ou <strong>décorer votre maison</strong></li>\n  </ul>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚 <strong>Livraison rapide</strong> en <strong>10 jours maximum</strong>, avec un emballage soigné pour garantir une réception en parfait état 🏡.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 100,
-        "y": 100,
-        "z": 4,
-        "price": 229
-      },
-      {
-        "x": 100,
-        "y": 100,
-        "z": 6,
-        "price": 249
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 4,
-        "price": 210
-      },
-      {
-        "z": 6,
-        "price": 230
-      }
-    ],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/9d11d51a-90eb-4333-ae45-647696208043.png"
-      }
-    ]
-  },
-  {
     "id": 28,
     "name": "Verre Feuilleté Test",
     "category": "Verre",
