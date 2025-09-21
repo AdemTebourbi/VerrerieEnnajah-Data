@@ -1,37 +1,5 @@
 [
   {
-    "id": 30,
-    "name": "Cadre²",
-    "category": "Cadres",
-    "subcategory": "",
-    "youtube": "",
-    "description": "Cadre au carré pour une photo au carré et une impréssion aussi au carré",
-    "images": [
-      {
-        "imageUrl": "https://lalalab-bo-catalog.s3.eu-west-1.amazonaws.com/Cadre_Photo_30x30cm_Personnalise_Slide_02_53ada75a69.webp"
-      }
-    ],
-    "dimensions": [
-      {
-        "width": 80,
-        "height": 80,
-        "priceVerre": 100,
-        "priceNoVerre": 80,
-        "x": 12,
-        "y": 20
-      },
-      {
-        "width": 100,
-        "height": 100,
-        "priceVerre": 120,
-        "priceNoVerre": 100,
-        "x": 15,
-        "y": 30
-      }
-    ],
-    "allowCustom": false
-  },
-  {
     "id": 32,
     "name": "Verre x22",
     "category": "Verre",
