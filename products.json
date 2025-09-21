@@ -105,42 +105,6 @@
     ]
   },
   {
-    "id": 17,
-    "name": "Design Végétal Raffiné",
-    "category": "Verre",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\">\n  <h2 style=\"font-size:16px; margin-bottom:8px;\">🍃 <strong>Verre Décoratif – Motif Feuilles & Fraîcheur</strong> ✨</h2>\n\n  <p>✨ <strong>Apportez une touche de nature et de fraîcheur</strong> à votre intérieur avec ce <strong>verre décoratif au motif feuilles</strong>.  \n    Son <strong>design raffiné</strong> crée une <strong>ambiance chaleureuse et moderne</strong>, parfait pour vos <strong>portes, fenêtres ou cloisons</strong>.</p>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">🎯 <strong>Ses atouts</strong></h3>\n  <ul style=\"padding-left:18px; margin-top:5px;\">\n    <li>Motif <strong>feuilles</strong> pour une touche naturelle</li>\n    <li>Design <strong>raffiné</strong> et moderne</li>\n    <li>Idéal pour <strong>portes, fenêtres</strong> et <strong>cloisons</strong></li>\n  </ul>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚 <strong>Livraison garantie</strong> sous <strong>10 jours maximum</strong>, avec emballage soigné pour une arrivée en parfait état 🏡.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 100,
-        "y": 100,
-        "z": 4,
-        "price": 299
-      },
-      {
-        "x": 100,
-        "y": 100,
-        "z": 6,
-        "price": 349
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 4,
-        "price": 280
-      },
-      {
-        "z": 6,
-        "price": 330
-      }
-    ],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/bf6d28f5-0498-4e8b-bb10-8c4f37210706.png"
-      }
-    ]
-  },
-  {
     "id": 28,
     "name": "Verre Feuilleté Test",
     "category": "Verre",
