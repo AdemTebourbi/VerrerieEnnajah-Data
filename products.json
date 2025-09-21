@@ -291,5 +291,31 @@
         "z": 3
       }
     ]
+  },
+  {
+    "id": 8,
+    "name": "Miroir Rétroviseur",
+    "category": "Miroirs",
+    "subcategory": "Miroirs rétroviseurs",
+    "youtube": "",
+    "description": "<p>Rétroviseur personnalisable.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Rétroviseur+Custom"
+      }
+    ],
+    "dimensions": [
+      {
+        "x": 10,
+        "y": 10,
+        "price": 50
+      }
+    ],
+    "allowCustom": true,
+    "customPrices": {
+      "moto": 50,
+      "voiture": 100,
+      "camion": 150
+    }
   }
 ]
