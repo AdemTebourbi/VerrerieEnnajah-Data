@@ -1,41 +1,5 @@
 [
   {
-    "id": 14,
-    "name": "Verre Artistique avec Motif Unique",
-    "category": "Verre",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\">\n  <h2 style=\"font-size:16px; margin-bottom:8px;\">🌟 <strong>Verre Décoratif – Finition Sablée / Peau d’Orange</strong> 🎨✨</h2>\n\n  <p>✨ <strong>Élégance, intimité et luminosité</strong> combinées dans ce <strong>verre décoratif</strong> à finition sablée (peau d’orange).  \n    Idéal pour <strong>portes</strong>, <strong>fenêtres</strong> ou pour sublimer votre <strong>décoration intérieure</strong>, apportant un rendu chic et raffiné à vos espaces.</p>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">🎯 <strong>Ses atouts</strong></h3>\n  <ul style=\"padding-left:18px; margin-top:5px;\">\n    <li>Finition <strong>sablée / peau d’orange</strong> pour un effet lumineux et intimiste</li>\n    <li>Allie <strong>esthétique</strong> et <strong>praticité</strong></li>\n    <li>Convient pour <strong>portes, fenêtres</strong> et <strong>décoration intérieure</strong></li>\n  </ul>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚💨 <strong>Livraison garantie</strong> en <strong>10 jours maximum</strong>, avec emballage soigné pour une réception en parfait état 🏡.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 100,
-        "y": 100,
-        "z": 4,
-        "price": 299
-      },
-      {
-        "x": 100,
-        "y": 100,
-        "z": 6,
-        "price": 349
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 4,
-        "price": 280
-      },
-      {
-        "z": 6,
-        "price": 330
-      }
-    ],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/689fc8c8-0c2a-42c8-8902-415fecd06b4b.png"
-      }
-    ]
-  },
-  {
     "id": 28,
     "name": "Verre Feuilleté Test",
     "category": "Verre",
