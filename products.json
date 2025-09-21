@@ -378,5 +378,32 @@
       }
     ],
     "allowCustom": false
+  },
+  {
+    "id": 13,
+    "name": "Miroir décoratif",
+    "category": "Miroirs",
+    "subcategory": "Miroirs décoratif",
+    "youtube": "",
+    "description": "Miroir décoratif",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Miroirs+Décoratif"
+      }
+    ],
+    "dimensions": [
+      {
+        "x": 120,
+        "y": 80,
+        "z": 4,
+        "price": 200
+      },
+      {
+        "x": 150,
+        "y": 90,
+        "z": 4,
+        "price": 220
+      }
+    ]
   }
 ]
