@@ -784,29 +784,6 @@
     ]
   },
   {
-    "id": 26,
-    "name": "Support Photo en Bois Naturel",
-    "category": "Cadres",
-    "description": "📝 Description :\n\n📸 Exposez vos souvenirs avec charme et authenticité !\nSupport photo en bois naturel, conçu pour mettre en valeur vos photos, cartes ou petites affiches. Sa finition sobre et moderne s’intègre parfaitement à tous les intérieurs, que ce soit pour un bureau, un salon ou une chambre.\n\n🌿 Matériau solide et durable\n📏 Format pratique pour photos et impressions\n🚚 Livraison rapide sous 3 jours max",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 23,
-        "y": 33,
-        "price": 42
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/2a701566-9c68-4cc0-8744-c576a987bc0a.png"
-      },
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/60f76eb4-e619-4b8d-b937-3215ff876e02.png"
-      }
-    ]
-  },
-  {
     "id": 28,
     "name": "Verre Feuilleté Test",
     "category": "Verre",
