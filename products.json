@@ -1,26 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Miroir LED Tactile",
-    "category": "Miroirs",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size: 14px; line-height: 1.4; font-family: Arial, sans-serif;\">\n  <h2 style=\"font-size: 16px; margin-bottom: 8px;\">💡 <strong>Miroir LED – Élégance & Confort Moderne</strong></h2>\n\n  <p>✨ <strong>Offrez à votre intérieur la touche lumineuse qu’il mérite</strong> !  \n  Ce miroir LED au <strong>design raffiné</strong> transforme votre salle de bain ou votre espace déco en un lieu moderne et chaleureux.</p>\n\n  <p>💎 Grâce à son <strong>éclairage LED intégré</strong>, profitez d’une <strong>lumière douce et homogène</strong> idéale pour vos préparations quotidiennes.</p>\n\n  <p>🖐️ Son <strong>interrupteur tactile</strong> apporte un confort d’utilisation ultime : un simple effleurement et votre miroir s’illumine avec élégance.</p>\n\n  <h3 style=\"font-size: 15px; margin-top: 10px;\">🌟 <strong>Avantages clés</strong></h3>\n  <ul style=\"padding-left: 18px; margin-top: 5px;\">\n    <li>Design moderne et raffiné</li>\n    <li>Éclairage LED doux et homogène</li>\n    <li>Interrupteur tactile pratique</li>\n    <li>Parfait pour <strong>salle de bain</strong> ou <strong>espace déco</strong></li>\n  </ul>\n\n  <h3 style=\"font-size: 15px; margin-top: 10px;\">📦 <strong>Livraison rapide et fiable</strong></h3>\n  <p>🚚 Commandez dès aujourd’hui et recevez votre miroir chez vous en <strong>10 jours maximum</strong>.  \n  📦 Nous veillons à un <strong>emballage soigné</strong> pour garantir que votre produit arrive en parfait état, prêt à embellir votre intérieur.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 70,
-        "y": 90,
-        "z": 4,
-        "price": 275
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/0e2b971b-9855-4740-9901-8acced852c3d.png"
-      }
-    ]
-  },
-  {
     "id": 2,
     "name": "Miroir en Bois aux Motifs Raffinés et Simples",
     "category": "Miroirs",
