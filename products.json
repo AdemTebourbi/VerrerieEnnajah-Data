@@ -807,29 +807,6 @@
     ]
   },
   {
-    "id": 27,
-    "name": "Support Photo en Bois Naturel",
-    "category": "Cadres",
-    "description": "📝 Description :\n\n📸 Exposez vos souvenirs avec charme et authenticité !\nSupport photo en bois naturel, conçu pour mettre en valeur vos photos, cartes ou petites affiches. Sa finition sobre et moderne s’intègre parfaitement à tous les intérieurs, que ce soit pour un bureau, un salon ou une chambre.\n\n🌿 Matériau solide et durable\n📏 Format pratique pour photos et impressions\n🚚 Livraison rapide sous 3 jours max",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 23,
-        "y": 33,
-        "price": 42
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/d6ee37cb-2e78-4faa-afb5-30d80e5e2076.png"
-      },
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/a2673d5b-79f4-4884-9c11-0ca1b0915692.png"
-      }
-    ]
-  },
-  {
     "id": 28,
     "name": "Verre Feuilleté Test",
     "category": "Verre",
@@ -955,15 +932,15 @@
     }
   },
   {
-    "id": 31,
-    "name": "Cadre 12",
+    "id": 30,
+    "name": "Cadre²",
     "category": "Cadres",
     "subcategory": "",
     "youtube": "",
-    "description": "Un cadre de ton choix.",
+    "description": "Cadre au carré pour une photo au carré et une impréssion aussi au carré",
     "images": [
       {
-        "imageUrl": "https://lalalab-bo-catalog.s3.eu-west-1.amazonaws.com/Cadre_Photo_30x30cm_Premium_Slide_01_59868ba493.webp"
+        "imageUrl": "https://lalalab-bo-catalog.s3.eu-west-1.amazonaws.com/Cadre_Photo_30x30cm_Personnalise_Slide_02_53ada75a69.webp"
       }
     ],
     "dimensions": [
@@ -980,8 +957,7 @@
         "priceNoVerre": 100
       }
     ],
-    "allowCustom": true,
-    "customThicknesses": []
+    "allowCustom": false
   },
   {
     "id": 32,
