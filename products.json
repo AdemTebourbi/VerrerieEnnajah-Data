@@ -93,5 +93,32 @@
         ]
       }
     ]
+  },
+  {
+    "id": 4,
+    "name": "Aquarium Standard",
+    "category": "Verre",
+    "subcategory": "Aquarium",
+    "youtube": "",
+    "description": "<p>Aquarium en verre.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Aquarium"
+      }
+    ],
+    "dimensions": [
+      {
+        "x": 100,
+        "y": 50,
+        "z": 40,
+        "price": 500
+      },
+      {
+        "x": 120,
+        "y": 60,
+        "z": 50,
+        "price": 700
+      }
+    ]
   }
 ]
