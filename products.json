@@ -33,30 +33,6 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Miroir Africa",
-    "category": "Miroirs",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\">\n  <h2 style=\"font-size:16px; margin-bottom:8px;\">🌍 <strong>Miroir Afrique – Élégance & Originalité</strong> ✨</h2>\n\n  <p>✨ <strong>Apportez une touche unique à votre intérieur</strong> avec ce magnifique \n    <strong>miroir en forme de l’Afrique</strong>.  \n    Plus qu’un simple miroir, c’est un <strong>symbole de style et d’identité</strong> qui transforme votre mur en une véritable œuvre d’art 🎨.</p>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">🎯 <strong>Pourquoi vous allez l’adorer</strong></h3>\n  <ul style=\"padding-left:18px; margin-top:5px;\">\n    <li>Design <strong>original</strong> et symbolique</li>\n    <li>Élément <strong>décoratif unique</strong> pour vos murs</li>\n    <li>Allie <strong>élégance</strong> et <strong>identité</strong></li>\n  </ul>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚 <strong>Recevez votre miroir</strong> en <strong>6 jours maximum</strong>, directement chez vous, avec un emballage soigné pour une arrivée en parfait état 🏡.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 150,
-        "y": 190,
-        "z": 4,
-        "price": 490
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/d1b3754a-9778-4970-83ab-43baa6736e56.png"
-      },
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/efed9919-29ca-4dcf-8c73-814411d4d9a4.png"
-      }
-    ]
-  },
-  {
     "id": 7,
     "name": "Mettez en valeur vos photos & attestations",
     "category": "Cadres",
