@@ -33,42 +33,6 @@
     ]
   },
   {
-    "id": 10,
-    "name": "Motif Classique Intemporel",
-    "category": "Verre",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\">\n  <h2 style=\"font-size:16px; margin-bottom:8px;\">🖤 <strong>Traçage Noir sur Verre – Sobriété & Élégance</strong> ✨</h2>\n\n  <p>✨ <strong>Traçage noir sur verre au style sobre et raffiné</strong>, idéal pour <strong>sublimer vos espaces</strong>.  \n    Un <strong>design unique</strong> qui allie <strong>modernité</strong> et <strong>élégance</strong>, parfait pour votre décoration intérieure 🎨.</p>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">🎯 <strong>Ses atouts</strong></h3>\n  <ul style=\"padding-left:18px; margin-top:5px;\">\n    <li>Style <strong>sobre</strong> et raffiné</li>\n    <li><strong>Modernité</strong> et élégance réunies</li>\n    <li>Parfait pour <strong>sublimer vos murs et espaces</strong></li>\n  </ul>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚 <strong>Livraison garantie</strong> sous <strong>10 jours maximum</strong>, avec un emballage soigné pour une arrivée en parfait état 🏡.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 100,
-        "y": 100,
-        "z": 4,
-        "price": 229
-      },
-      {
-        "x": 100,
-        "y": 100,
-        "z": 6,
-        "price": 249
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 4,
-        "price": 210
-      },
-      {
-        "z": 6,
-        "price": 230
-      }
-    ],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/a01c27ed-1be5-4121-9f4a-30c614310918.png"
-      }
-    ]
-  },
-  {
     "id": 11,
     "name": "Art Noir sur Verre – Finesse et Modernité",
     "category": "Verre",
