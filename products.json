@@ -754,36 +754,6 @@
     ]
   },
   {
-    "id": 24,
-    "name": "Cadre Photo Marron Élégant",
-    "category": "Cadres",
-    "description": "📸 Un cadre élégant et chaleureux !\nCadre photo marron, largeur 3 cm, équipé d’une vitre de protection et d’un contreplaqué robuste. Son style classique et naturel met parfaitement en valeur vos photos, portraits ou documents.\n\n✨ Une touche sobre et raffinée pour votre décoration.\n🚚 Livraison en 3 jours max.",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 21,
-        "y": 29.5,
-        "price": 30
-      },
-      {
-        "x": 42,
-        "y": 29.7,
-        "price": 48
-      },
-      {
-        "x": 42,
-        "y": 59.4,
-        "price": 82
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/90a4cbd6-d197-440d-96aa-c897136ae0f5.png"
-      }
-    ]
-  },
-  {
     "id": 28,
     "name": "Verre Feuilleté Test",
     "category": "Verre",
