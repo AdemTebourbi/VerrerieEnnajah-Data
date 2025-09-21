@@ -266,33 +266,6 @@
     "filmPrice": 20
   },
   {
-    "id": 7,
-    "name": "Miroir Décoratif Rond",
-    "category": "Miroirs",
-    "subcategory": "Miroirs decoratif",
-    "youtube": "",
-    "description": "<p>Miroir rond pour décoration.</p>",
-    "images": [
-      {
-        "imageUrl": "https://placehold.co/600x400?text=Miroir+Décoratif"
-      }
-    ],
-    "dimensions": [
-      {
-        "x": 60,
-        "y": 60,
-        "price": 150,
-        "z": 3
-      },
-      {
-        "x": 80,
-        "y": 80,
-        "price": 200,
-        "z": 3
-      }
-    ]
-  },
-  {
     "id": 8,
     "name": "Miroir Rétroviseur",
     "category": "Miroirs",
