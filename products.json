@@ -338,5 +338,31 @@
       }
     ],
     "allowCustom": false
+  },
+  {
+    "id": 10,
+    "name": "Cadre Bois Personnalisé",
+    "category": "Cadres",
+    "subcategory": "",
+    "youtube": "",
+    "description": "<p>Cadre en bois personnalisable.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Cadre+Custom"
+      }
+    ],
+    "dimensions": [
+      {
+        "x": 14.8,
+        "y": 21,
+        "priceVerre": 35,
+        "priceNoVerre": 30
+      }
+    ],
+    "allowCustom": true,
+    "baguetteWidth": 2,
+    "baguetteLinearPrice": 10,
+    "plywoodPricePerM2": 50,
+    "glassPricePerM2": 70
   }
 ]
