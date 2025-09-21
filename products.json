@@ -44,5 +44,54 @@
         "price": 100
       }
     ]
+  },
+  {
+    "id": 3,
+    "name": "Peinture sur Verre Bleu",
+    "category": "Verre",
+    "subcategory": "Peinture sur verre",
+    "youtube": "",
+    "description": "<p>Verre peint personnalisé.</p>",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Peinture+Verre_1"
+      },
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Peinture+Verre_2"
+      }
+    ],
+    "availableTypes": [
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 80
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 90
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 85
+          },
+          {
+            "z": 5,
+            "price": 95
+          }
+        ]
+      }
+    ]
   }
 ]
