@@ -33,30 +33,6 @@
     ]
   },
   {
-    "id": 5,
-    "name": "Miroir Maquillage Grossissant – Chaque détail sous vos yeux",
-    "category": "Miroirs",
-    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\">\n  <h2 style=\"font-size:16px; margin-bottom:8px;\">💄 <strong>Miroir Maquillage Grossissant – Chaque détail sous vos yeux</strong> 🪞✨</h2>\n\n  <p>✨ <strong>Offrez-vous bien plus qu’un simple miroir</strong> !  \n    Ce <strong>miroir de maquillage professionnel à LED</strong> est l’allié incontournable pour un maquillage parfait.  \n    Son <strong>éclairage puissant et réglable</strong> vous assure une précision digne des make-up artists, tout en ajoutant une touche chic à votre espace beauté 💎.</p>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">🎯 <strong>Pourquoi vous allez l’adorer</strong></h3>\n  <ul style=\"padding-left:18px; margin-top:5px;\">\n    <li>Grossissement idéal pour chaque détail ✨</li>\n    <li>Éclairage LED <strong>puissant et ajustable</strong></li>\n    <li><strong>Design moderne</strong> et chic</li>\n  </ul>\n\n  <h3 style=\"font-size:15px; margin-top:10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚 <strong>Commandez aujourd’hui</strong> et recevez votre miroir en <strong>3 jours maximum</strong>, directement chez vous, avec un emballage soigné pour qu’il arrive en parfait état 🏡.</p>\n</section>",
-    "youtube": "",
-    "dimensions": [
-      {
-        "x": 18.5,
-        "y": 20,
-        "z": 3,
-        "price": 42.5
-      }
-    ],
-    "thicknesses": [],
-    "images": [
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/2412a78c-2300-4975-a5f9-35791bc74e2f.png"
-      },
-      {
-        "imageUrl": "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/b35cfa54-61a0-41cc-aa0e-13a4ea94d3cd.png"
-      }
-    ]
-  },
-  {
     "id": 6,
     "name": "Miroir Africa",
     "category": "Miroirs",
