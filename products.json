@@ -9,6 +9,21 @@
     "images": [
       {
         "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple"
+      },
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple+1"
+      },
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple+2"
+      },
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple+3"
+      },
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple+4"
+      },
+      {
+        "imageUrl": "https://placehold.co/600x400?text=Mohamed+Youssef+Zitoun"
       }
     ],
     "thicknesses": [
