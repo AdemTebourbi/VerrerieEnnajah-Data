@@ -1,43 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Vitrage Simple 3mm",
-    "category": "Verre",
-    "subcategory": "Vitrage simple",
-    "youtube": "",
-    "description": "<p>Vitrage simple pour fenêtres.</p>",
-    "images": [
-      {
-        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple+1"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple+2"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple+3"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=Vitrage+Simple+4"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=Mohamed+Youssef+Zitoun"
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 3,
-        "price": 70
-      },
-      {
-        "z": 4,
-        "price": 80
-      }
-    ]
-  },
-  {
     "id": 2,
     "name": "Verre Trempé 4mm",
     "category": "Verre",
