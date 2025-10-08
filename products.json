@@ -272,5 +272,32 @@
       }
     ],
     "allowCustom": false
+  },
+  {
+    "id": 13,
+    "name": "Laylaylay",
+    "category": "Verre",
+    "subcategory": "Simple Vitrage",
+    "youtube": "",
+    "description": "bougabouga",
+    "images": [
+      {
+        "imageUrl": "https://placehold.co/600x400?text=BOUGA_BOUGA"
+      }
+    ],
+    "thicknesses": [
+      {
+        "z": 3,
+        "price": 20
+      },
+      {
+        "z": 4,
+        "price": 30
+      },
+      {
+        "z": 5,
+        "price": 50
+      }
+    ]
   }
 ]
