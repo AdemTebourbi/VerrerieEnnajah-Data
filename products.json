@@ -408,5 +408,50 @@
         "price": 60
       }
     ]
+  },
+  {
+    "id": 15,
+    "name": "Miroirs décoratifs",
+    "category": "Miroirs",
+    "subcategory": "Miroirs décoratifs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://scontent.ftun2-2.fna.fbcdn.net/v/t39.30808-1/457558923_2623613424692981_2449631317476947726_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=3tRtqTYaLtkQ7kNvwGHO3_a&_nc_oc=Adnjlz63XyEMIBaP0Q4MezgqUwcDnrzSxZp0U1pYgkQ6LVkGGCLJrtdd6nnlBFjRwg8&_nc_zt=24&_nc_ht=scontent.ftun2-2.fna&_nc_gid=R87wgbRr_348GybR50jElg&oh=00_AfeH9fAXtz6DQ-Pc_cvVN3nDySkR-U4yc4SrrkWa2sXPrw&oe=68EE2163"
+      }
+    ],
+    "dimensions": [
+      {
+        "x": 120,
+        "y": 100,
+        "z": 3,
+        "price": 350
+      },
+      {
+        "x": 120,
+        "y": 150,
+        "z": 3,
+        "price": 350
+      },
+      {
+        "x": 100,
+        "y": 80,
+        "z": 3,
+        "price": 500
+      },
+      {
+        "x": 130,
+        "y": 170,
+        "z": 4,
+        "price": 450
+      },
+      {
+        "x": 131,
+        "y": 171,
+        "z": 4,
+        "price": 452
+      }
+    ]
   }
 ]
