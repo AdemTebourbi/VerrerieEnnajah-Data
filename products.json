@@ -11,7 +11,14 @@
         "imageUrl": "https://scontent.ftun2-2.fna.fbcdn.net/v/t39.30808-1/471159207_1385387232439297_7179959640875235606_n.jpg?stp=c98.98.1304.1304a_dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=NS530w_nK6YQ7kNvwEmneC_&_nc_oc=AdkxZHetvky84E-dXDjwG7xOoEpdyWeeUc9Rz6nGrH2BggkPV9TqRnCis9WD73kgrXI&_nc_zt=24&_nc_ht=scontent.ftun2-2.fna&_nc_gid=hlZCHDLmLIbpV384G3U5hg&oh=00_Afe6ll_n5gcp44ndSvBvA2fpyAhrXtdOajZV3rnqtxbFhA&oe=68EF5BD1"
       }
     ],
-    "dimensions": [],
+    "dimensions": [
+      {
+        "x": 53,
+        "y": 52,
+        "priceVerre": 53,
+        "priceNoVerre": 60
+      }
+    ],
     "allowCustom": false
   },
   {
