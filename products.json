@@ -6,7 +6,11 @@
     "subcategory": "Simple vitrage",
     "youtube": "",
     "description": null,
-    "images": [],
+    "images": [
+      {
+        "imageUrl": "https://scontent.ftun4-2.fna.fbcdn.net/v/t39.30808-6/558487008_1408239204281453_2207956681624216362_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Ly1UCSegOX8Q7kNvwHskDFy&_nc_oc=AdlZEaBlgifhu37nV9e5dw3ZXO4JkF7hCxZnHs2Zi_CwOu5Q1dtSdLgqvveRz5huF2U&_nc_zt=23&_nc_ht=scontent.ftun4-2.fna&_nc_gid=xwsRMohziQj9QJORjnesHg&oh=00_AfdY5eACSIzt0ZLtkPPqrzCFow8NtxzzBKhnGp9nT9No8A&oe=69033CC5"
+      }
+    ],
     "thicknesses": [
       {
         "z": 3,
