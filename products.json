@@ -6,7 +6,11 @@
     "subcategory": "Simple vitrage",
     "youtube": "",
     "description": "",
-    "images": [],
+    "images": [
+      {
+        "imageUrl": "https://www.fenetre24.be/fileadmin/images/fr/fenetre/level3/vitre-double-vitrage-verre-clair.jpg"
+      }
+    ],
     "thicknesses": [
       {
         "z": 3,
