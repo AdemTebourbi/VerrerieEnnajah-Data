@@ -365,48 +365,6 @@
     "allowCustom": false
   },
   {
-    "id": 13,
-    "name": "Laylaylay",
-    "category": "Verre",
-    "subcategory": "Simple Vitrage",
-    "youtube": "",
-    "description": "bougabouga",
-    "images": [
-      {
-        "imageUrl": "https://placehold.co/600x400?text=BOUGA_BOUGA"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=BOUGA_BOUGA1"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=BOUGA_BOUGA2"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=BOUGA_BOUGA3"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=BOUGA_BOUGA4"
-      },
-      {
-        "imageUrl": "https://placehold.co/600x400?text=BOUGA_BOUGA5"
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 3,
-        "price": 20
-      },
-      {
-        "z": 4,
-        "price": 30
-      },
-      {
-        "z": 5,
-        "price": 50
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Double vitrage 00...00",
     "category": "Verre",
