@@ -13,11 +13,7 @@
         "thicknesses": [
           {
             "z": 1,
-            "price": 2
-          },
-          {
-            "z": 3,
-            "price": 4
+            "price": 6
           }
         ]
       },
@@ -37,15 +33,11 @@
     ],
     "availableTypesVerre2": [
       {
-        "id": "4",
+        "id": "6",
         "thicknesses": [
           {
-            "z": 1,
-            "price": 2
-          },
-          {
-            "z": 3,
-            "price": 4
+            "z": 5,
+            "price": 6
           }
         ]
       }
