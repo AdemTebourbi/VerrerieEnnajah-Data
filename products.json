@@ -1,5 +1,21 @@
 [
   {
+    "id": 20,
+    "name": "hhh",
+    "category": "Miroirs",
+    "subcategory": "Miroirs rétroviseurs",
+    "youtube": "",
+    "description": null,
+    "images": [],
+    "dimensions": [],
+    "allowCustom": true,
+    "customPrices": {
+      "moto": 120,
+      "voiture": null,
+      "camion": null
+    }
+  },
+  {
     "id": 19,
     "name": "hhh",
     "category": "Miroirs",
