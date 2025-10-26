@@ -6,7 +6,11 @@
     "subcategory": "Miroirs rétroviseurs",
     "youtube": "",
     "description": null,
-    "images": [],
+    "images": [
+      {
+        "imageUrl": ""
+      }
+    ],
     "dimensions": [],
     "allowCustom": true,
     "customPrices": {
