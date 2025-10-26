@@ -11,8 +11,8 @@
     "allowCustom": true,
     "customPrices": {
       "moto": 120,
-      "voiture": null,
-      "camion": null
+      "voiture": 5,
+      "camion": 15
     }
   },
   {
