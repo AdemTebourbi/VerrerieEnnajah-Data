@@ -1,5 +1,29 @@
 [
   {
+    "id": 18,
+    "name": "hhhhhhhhhhh",
+    "category": "Verre",
+    "subcategory": "Peinture sur verre",
+    "youtube": "",
+    "description": null,
+    "images": [],
+    "availableTypes": [
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 1,
+            "price": 3
+          },
+          {
+            "z": 2,
+            "price": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 17,
     "name": "adam",
     "category": "Verre",
