@@ -1,5 +1,63 @@
 [
   {
+    "id": 20,
+    "name": "adam",
+    "category": "Verre",
+    "subcategory": "Double vitrage",
+    "youtube": "",
+    "description": null,
+    "images": [],
+    "availableTypesVerre1": [
+      {
+        "id": "4",
+        "thicknesses": [
+          {
+            "z": 1,
+            "price": 2
+          },
+          {
+            "z": 3,
+            "price": 4
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "thicknesses": [
+          {
+            "z": 2,
+            "price": 4
+          },
+          {
+            "z": 6,
+            "price": 8
+          }
+        ]
+      }
+    ],
+    "availableTypesVerre2": [
+      {
+        "id": "4",
+        "thicknesses": [
+          {
+            "z": 1,
+            "price": 2
+          },
+          {
+            "z": 3,
+            "price": 4
+          }
+        ]
+      }
+    ],
+    "swiggleThicknesses": [
+      {
+        "z": 12,
+        "price": 2
+      }
+    ]
+  },
+  {
     "id": 19,
     "name": "adam",
     "category": "Verre",
