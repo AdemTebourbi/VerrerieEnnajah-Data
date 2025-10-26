@@ -1,25 +1,5 @@
 [
   {
-    "id": 20,
-    "name": "tytou",
-    "category": "Verre",
-    "subcategory": "Peinture sur verre",
-    "youtube": "",
-    "description": null,
-    "images": [],
-    "availableTypes": [
-      {
-        "id": "3",
-        "thicknesses": [
-          {
-            "z": 1,
-            "price": 120
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 19,
     "name": "adam",
     "category": "Verre",
