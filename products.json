@@ -1,28 +1,5 @@
 [
   {
-    "id": 19,
-    "name": "adam",
-    "category": "Verre",
-    "subcategory": "Simple vitrage",
-    "youtube": "",
-    "description": "",
-    "images": [
-      {
-        "imageUrl": "https://scontent.ftun4-2.fna.fbcdn.net/v/t39.30808-6/571259809_1237396555085609_7366788654540091262_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pf_Cfhi1V_AQ7kNvwEtNMK3&_nc_oc=AdnVH2y9V3SEHLoYCABIuUWQMW07giLAvJpCvDFp1jrBvSlvqF1nZ3VlbdKC7r6wnzU&_nc_zt=23&_nc_ht=scontent.ftun4-2.fna&_nc_gid=6VmnVLoPWsiFloCuOMqirw&oh=00_AfdlreBR50SW64MSqapizJ6u8zi1kLE25aeBFkyu3CZZTA&oe=6903AFED"
-      }
-    ],
-    "thicknesses": [
-      {
-        "z": 1,
-        "price": 2
-      },
-      {
-        "z": 3,
-        "price": 4
-      }
-    ]
-  },
-  {
     "id": 18,
     "name": "adam",
     "category": "Verre",
