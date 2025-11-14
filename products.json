@@ -46,28 +46,6 @@
     ]
   },
   {
-    "id": 16,
-    "name": "Cadrouch",
-    "category": "Cadres",
-    "subcategory": "",
-    "youtube": "",
-    "description": "",
-    "images": [
-      {
-        "imageUrl": "https://scontent.ftun4-2.fna.fbcdn.net/v/t39.30808-6/494482478_2157686248086211_3757474165636260404_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Q4MqY1_u5loQ7kNvwFjXOB6&_nc_oc=Adkvmm06reRMC6EEYGCmRWE6uaCDVpuouD8-NEHqsFQO-5eOK7ykkBEGzChPs4HyLJw&_nc_zt=23&_nc_ht=scontent.ftun4-2.fna&_nc_gid=fpTFsd8_Mpj7ry_IJ3pG-Q&oh=00_AfcBf-vEFCSj-cnqyDCo2ZOTFKmAhnNEIMhfAjIss0UQNA&oe=6901D7EC"
-      }
-    ],
-    "dimensions": [
-      {
-        "x": 53,
-        "y": 52,
-        "priceVerre": 53,
-        "priceNoVerre": 65
-      }
-    ],
-    "allowCustom": false
-  },
-  {
     "id": 3,
     "name": "Peinture sur Verre Bleu",
     "category": "Verre",
