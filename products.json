@@ -16,15 +16,14 @@
       {
         "x": 1,
         "y": 2,
-        "priceVerre": 20,
-        "priceNoVerre": 12
+        "priceVerre": 20
       }
     ],
     "glassPricePerM2": 5,
     "baguetteWidth": 1,
     "baguetteLinearPrice": 2,
     "plywoodPricePerM2": 3,
-    "withGlass": "avecEtSans"
+    "withGlass": "avecVerre"
   },
   {
     "id": 20,
