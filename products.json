@@ -16,10 +16,11 @@
       {
         "x": 12,
         "y": 30,
+        "priceVerre": 80,
         "priceNoVerre": 50
       }
     ],
-    "withGlass": "sansVerre"
+    "withGlass": "avecEtSans"
   },
   {
     "id": 21,
