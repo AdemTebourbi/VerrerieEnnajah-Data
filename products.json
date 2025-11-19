@@ -23,7 +23,7 @@
     "baguetteWidth": 1,
     "baguetteLinearPrice": 2,
     "plywoodPricePerM2": 3,
-    "withGlass": null
+    "withGlass": "avecVerre"
   },
   {
     "id": 20,
