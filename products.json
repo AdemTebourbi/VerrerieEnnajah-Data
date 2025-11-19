@@ -18,7 +18,8 @@
         "y": 30,
         "priceNoVerre": 50
       }
-    ]
+    ],
+    "withGlass": "sansVerre"
   },
   {
     "id": 21,
